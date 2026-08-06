@@ -1,141 +1,110 @@
-<h1 align="center">Hi there, I'm Vishal Dipake 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+(MERN);Fresher+%7C+Open+to+Work;Learning+Java+%26+REST+APIs;Let's+Build+Something+Great+%F0%9F%9A%80&font=Fira%20Code&center=true&width=460&height=45&color=58A6FF&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00F5FF&height=220&section=header&text=VISHAL%20DIPAKE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Fresher&descAlignY=58&descSize=20" alt="header banner" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="wave" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+Full+Stack+Developer+(MERN);%3E+Fresher+%7C+Open+to+Work;%3E+Learning+Java+%26+REST+APIs;%3E+Let's+build+something+insane&font=Fira+Code&center=true&width=520&height=45&color=00F5FF&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishalDipake&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
-  <a href="https://portfolio-lms19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:vishaldipake072@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat" alt="Open to work" />
+  <img src="https://komarev.com/ghpvc/?username=VishalDipake&label=PROFILE+VIEWS&color=FF0080&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F5FF?style=for-the-badge&labelColor=000000" alt="Open to work" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-lms19.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7928CA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:vishaldipake072@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+<h3 align="center">⚡ ABOUT ME</h3>
 
 ```yaml
-Name:        Vishal Dipake
-Role:        Full Stack Developer (MERN) — Fresher
-Location:    Pune, India
-Learning:    Java Backend Development, REST APIs
-Looking for: Full-time opportunities & collaborations
-Fun fact:    I build things until they break, then I fix them 😄
+role:      Full Stack Developer (MERN) — Fresher
+location:  Pune, India
+learning:  Java Backend Development, REST APIs
+goal:      Landing my first full-time role & shipping cool stuff
 ```
-
-- 🎓 Computer Science graduate
-- 💻 Full stack developer working with the **MERN** stack
-- 🌱 Currently leveling up in **Java Backend Development** and **REST APIs**
-- 🎯 Actively looking for full-time opportunities as a fresher
-- 📫 Reach me at **vishaldipake072@gmail.com**
-- 🌐 Portfolio: **[portfolio-lms19.vercel.app](https://portfolio-lms19.vercel.app/)**
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🔥 TECH ARSENAL</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,express,mongodb,java,mysql,git,github,vscode,postman&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,express,mongodb,java,mysql,git,github,vscode,postman&theme=dark&perline=7" alt="Tech stack icons" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+<h3 align="center">🎮 FEATURED PROJECTS</h3>
 
-<table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:7928CA&height=3&width=800" />
+</p>
+
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/VishalDipake/Edemy-LMS">
-        <img src="https://opengraph.githubassets.com/1/VishalDipake/Edemy-LMS" width="100%" alt="Edemy-LMS preview" />
-      </a>
-      <h4>🎓 Edemy-LMS</h4>
-      <p>A Learning Management System for creating, managing, and taking online courses.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <br/>
-      <a href="https://github.com/VishalDipake/Edemy-LMS">🔗 View Repo</a>
+    <td width="33%" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F5FF,100:0F0F0F&height=90&text=Edemy-LMS&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%" /><br/>
+      <sub>Online Learning Management System — create, manage & take courses</sub><br/>
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" /><br/>
+      <a href="https://github.com/VishalDipake/Edemy-LMS">🔗 Repo</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/VishalDipake/WANDERLUST_APP">
-        <img src="https://opengraph.githubassets.com/1/VishalDipake/WANDERLUST_APP" width="100%" alt="Wanderlust App preview" />
-      </a>
-      <h4>✈️ Wanderlust App</h4>
-      <p>A travel & destination showcase app with listings, images, and details.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <br/>
-      <a href="https://github.com/VishalDipake/WANDERLUST_APP">🔗 View Repo</a>
+    <td width="33%" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF0080,100:0F0F0F&height=90&text=Wanderlust&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%" /><br/>
+      <sub>Travel & destination showcase app with listings and images</sub><br/>
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" /><br/>
+      <a href="https://github.com/VishalDipake/WANDERLUST_APP">🔗 Repo</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/VishalDipake/MULTITHREADED-CHAT-APPLICATION">
-        <img src="https://opengraph.githubassets.com/1/VishalDipake/MULTITHREADED-CHAT-APPLICATION" width="100%" alt="Chat App preview" />
-      </a>
-      <h4>💬 Multithreaded Chat Application</h4>
-      <p>A real-time chat application built using Java multithreading and sockets.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <br/>
-      <a href="https://github.com/VishalDipake/MULTITHREADED-CHAT-APPLICATION">🔗 View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://portfolio-lms19.vercel.app/">
-        <img src="https://image.thum.io/get/width/600/crop/800/https://portfolio-lms19.vercel.app/" width="100%" alt="Portfolio preview" />
-      </a>
-      <h4>🌐 Personal Portfolio</h4>
-      <p>My personal portfolio site showcasing my work, skills, and journey.</p>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      <br/>
-      <a href="https://portfolio-lms19.vercel.app/">🔗 Live Site</a>
+    <td width="33%" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7928CA,100:0F0F0F&height=90&text=Chat+App&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%" /><br/>
+      <sub>Real-time multithreaded chat app using Java sockets</sub><br/>
+      <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00" /><br/>
+      <a href="https://github.com/VishalDipake/MULTITHREADED-CHAT-APPLICATION">🔗 Repo</a>
     </td>
   </tr>
 </table>
 
-> 📂 Check out all my repositories [here](https://github.com/VishalDipake?tab=repositories).
+<p align="center">📂 <a href="https://github.com/VishalDipake?tab=repositories">See all repositories →</a></p>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 STATS</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VishalDipake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalDipake&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VishalDipake&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalDipake&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalDipake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalDipake&theme=radical&hide_border=true&background=0D1117&ring=FF0080&fire=00F5FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDipake&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishalDipake&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDipake&theme=react-dark&bg_color=0D1117&color=00F5FF&line=FF0080&point=ffffff&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+<h3 align="center">🏆 TROPHIES</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VishalDipake/VishalDipake/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VishalDipake&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+<h3 align="center">🐍 CONTRIBUTION SNAKE</h3>
 
 <p align="center">
-  <a href="mailto:vishaldipake072@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-lms19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/VishalDipake/VishalDipake/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to interesting projects, freelance work, and full-time opportunities! 🚀</i></p>****
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7928CA,100:FF0080&height=120&section=footer" />
+</p>
+
+<p align="center"><i>Always down to talk about full-time roles, freelance gigs, or just cool ideas ⚡</i></p>
