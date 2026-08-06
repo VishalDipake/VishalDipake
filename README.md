@@ -1,23 +1,37 @@
 <h1 align="center">Hi there, I'm Vishal Dipake 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+(MERN);Final+Year+CS+Student;Learning+Java+%26+REST+APIs;Open+to+Opportunities+%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+(MERN);Fresher+%7C+Open+to+Work;Learning+Java+%26+REST+APIs;Let's+Build+Something+Great+%F0%9F%9A%80&font=Fira%20Code&center=true&width=460&height=45&color=58A6FF&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="wave" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VishalDipake&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
   <a href="https://portfolio-lms19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:vishaldipake072@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat" alt="Open to work" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Final Year Computer Science student, based in **Pune, India**
-- 💻 Full Stack Developer working with the **MERN** stack
+```yaml
+Name:        Vishal Dipake
+Role:        Full Stack Developer (MERN) — Fresher
+Location:    Pune, India
+Learning:    Java Backend Development, REST APIs
+Looking for: Full-time opportunities & collaborations
+Fun fact:    I build things until they break, then I fix them 😄
+```
+
+- 🎓 Computer Science graduate
+- 💻 Full stack developer working with the **MERN** stack
 - 🌱 Currently leveling up in **Java Backend Development** and **REST APIs**
-- 🎯 Focused on building scalable, real-world web applications
+- 🎯 Actively looking for full-time opportunities as a fresher
 - 📫 Reach me at **vishaldipake072@gmail.com**
 - 🌐 Portfolio: **[portfolio-lms19.vercel.app](https://portfolio-lms19.vercel.app/)**
 
@@ -25,43 +39,60 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,express,mongodb,java,mysql,git,github,vscode,postman&theme=dark" alt="Tech stack icons" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🎓 **[Edemy-LMS](https://github.com/VishalDipake/Edemy-LMS)** | A Learning Management System for creating, managing, and taking online courses. | JavaScript |
-| 💬 **[Multithreaded Chat Application](https://github.com/VishalDipake/MULTITHREADED-CHAT-APPLICATION)** | A real-time chat app built using Java multithreading and sockets. | Java |
-| ✈️ **[Wanderlust App](https://github.com/VishalDipake/WANDERLUST_APP)** | A travel/destination showcase app with listings, images, and details. | JavaScript |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VishalDipake/Edemy-LMS">
+        <img src="https://opengraph.githubassets.com/1/VishalDipake/Edemy-LMS" width="100%" alt="Edemy-LMS preview" />
+      </a>
+      <h4>🎓 Edemy-LMS</h4>
+      <p>A Learning Management System for creating, managing, and taking online courses.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br/>
+      <a href="https://github.com/VishalDipake/Edemy-LMS">🔗 View Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VishalDipake/WANDERLUST_APP">
+        <img src="https://opengraph.githubassets.com/1/VishalDipake/WANDERLUST_APP" width="100%" alt="Wanderlust App preview" />
+      </a>
+      <h4>✈️ Wanderlust App</h4>
+      <p>A travel & destination showcase app with listings, images, and details.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br/>
+      <a href="https://github.com/VishalDipake/WANDERLUST_APP">🔗 View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VishalDipake/MULTITHREADED-CHAT-APPLICATION">
+        <img src="https://opengraph.githubassets.com/1/VishalDipake/MULTITHREADED-CHAT-APPLICATION" width="100%" alt="Chat App preview" />
+      </a>
+      <h4>💬 Multithreaded Chat Application</h4>
+      <p>A real-time chat application built using Java multithreading and sockets.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <br/>
+      <a href="https://github.com/VishalDipake/MULTITHREADED-CHAT-APPLICATION">🔗 View Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://portfolio-lms19.vercel.app/">
+        <img src="https://image.thum.io/get/width/600/crop/800/https://portfolio-lms19.vercel.app/" width="100%" alt="Portfolio preview" />
+      </a>
+      <h4>🌐 Personal Portfolio</h4>
+      <p>My personal portfolio site showcasing my work, skills, and journey.</p>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <br/>
+      <a href="https://portfolio-lms19.vercel.app/">🔗 Live Site</a>
+    </td>
+  </tr>
+</table>
 
 > 📂 Check out all my repositories [here](https://github.com/VishalDipake?tab=repositories).
 
@@ -84,13 +115,19 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishalDipake&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VishalDipake/VishalDipake/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-> ℹ️ The snake animation needs a one-time GitHub Actions setup (workflow provided below) — it auto-updates itself using your real contribution graph.
 
 ---
 
@@ -101,4 +138,4 @@
   <a href="https://portfolio-lms19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to interesting projects and collabs! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — always open to interesting projects, freelance work, and full-time opportunities! 🚀</i></p>****
