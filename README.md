@@ -95,16 +95,5 @@ goal:      Landing my first full-time role & shipping cool stuff
 
 ---
 
-<h3 align="center">🐍 CONTRIBUTION SNAKE</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VishalDipake/VishalDipake/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7928CA,100:FF0080&height=120&section=footer" />
-</p>
-
-<p align="center"><i>Always down to talk about full-time roles, freelance gigs, or just cool ideas ⚡</i></p>
+<h3 align="center">🐍 CONTRIBUTION SNAKE</h3> <p align="center"> <img src="https://raw.githubusercontent.com/VishalDipake/VishalDipake/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7928CA,100:FF0080&height=120&section=footer" /> </p> <p align="center"><i>Always down to talk about full-time roles, freelance gigs, or just cool ideas ⚡</i></p>
